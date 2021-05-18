@@ -1,0 +1,725 @@
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/aboba_test_git.uasset" 0
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/aboba_test_git.uasset" 1
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 2
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 3
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/ChestHero/Chest_test_Skeleton.uasset" 4
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/ChestHero/Chest_head_to_side.uasset" 5
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Footsteps/FS_main_wood-007.uasset" 6
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Footsteps/FS_main_wood-006.uasset" 7
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Footsteps/FS_main_wood-005.uasset" 8
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Footsteps/FS_main_wood-004.uasset" 9
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Footsteps/FS_main_wood-003.uasset" 10
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Footsteps/FS_main_wood-002.uasset" 11
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Footsteps/FS_main_wood-001.uasset" 12
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Footsteps/FS_main_steps-004.uasset" 13
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Footsteps/FS_main_steps-003.uasset" 14
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Footsteps/FS_main_steps-002.uasset" 15
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Footsteps/FS_main_steps-001.uasset" 16
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Footsteps/FS_main_details-007.uasset" 17
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Footsteps/FS_main_details-006.uasset" 18
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Footsteps/FS_main_details-005.uasset" 19
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Footsteps/FS_main_details-004.uasset" 20
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Footsteps/FS_main_details-003.uasset" 21
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Footsteps/FS_main_details-002.uasset" 22
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Footsteps/FS_main_details-001.uasset" 23
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character_Footsteps.uasset" 24
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/ChestHero/Chest_Running.uasset" 25
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/ChestHero/Chest_test_Anim.uasset" 26
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/ChestHero/Chest_idle_01.uasset" 27
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/ChestHero/IdleWalkChest_BS.uasset" 28
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/ChestHero/IdleWalkChest.uasset" 29
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 30
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 31
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 32
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 33
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Geometry/Meshes/CubeMaterial.uasset" 34
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/Destroy_Prekol/1M_Cube.uasset" 35
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/Destroy_Prekol/1M_Cube_DM.uasset" 36
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Geometry/Meshes/1M_Cube.uasset" 37
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Geometry/Meshes/1M_Cube.uasset" 38
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Geometry/Meshes/1M_Cube_Chamfer.uasset" 39
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 40
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Geometry/Meshes/TemplateFloor.uasset" 41
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Geometry/Meshes/TemplateFloor.uasset" 42
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Gleb_files/Menu/Main_menu.uasset" 43
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/Keys_weapon/roughness_chest.uasset" 44
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/Keys_weapon/base_color_chest.uasset" 45
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/Keys_weapon/chest.uasset" 46
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/Keys_weapon/key_test.uasset" 47
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/ChestHero/Chest_test_PhysicsAsset.uasset" 48
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/ChestHero/base_color_chest.uasset" 49
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/ChestHero/metalness_chest.uasset" 50
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/ChestHero/roughness_chest.uasset" 51
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/ChestHero/chest.uasset" 52
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/ChestHero/Chest_test.uasset" 53
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 54
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/ChestHero/Chest_strong_jump.uasset" 55
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Hide/FS_main_open_move1-003.uasset" 56
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Hide/FS_main_open_move1-002.uasset" 57
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Hide/FS_main_open_move1-001.uasset" 58
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Hide/FS_main_open_impact2-003.uasset" 59
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Hide/FS_main_open_impact2-002.uasset" 60
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Hide/FS_main_open_impact2-001.uasset" 61
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Hide/FS_main_open_impact1-004.uasset" 62
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Hide/FS_main_open_impact1-003.uasset" 63
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Hide/FS_main_open_impact1-002.uasset" 64
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Hide/FS_main_open_impact1-001.uasset" 65
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Hide/FS_main_close_move2-004.uasset" 66
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Hide/FS_main_close_move2-003.uasset" 67
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Hide/FS_main_close_move2-002.uasset" 68
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Hide/FS_main_close_move2-001.uasset" 69
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Hide/FS_main_close_details-004.uasset" 70
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Hide/FS_main_close_details-003.uasset" 71
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Hide/FS_main_close_details-002.uasset" 72
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Hide/FS_main_close_details-001.uasset" 73
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character_Hide_Out.uasset" 74
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/ChestHero/Chest_Out_hide.uasset" 75
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Jump/FS_main_landing_vo-004.uasset" 76
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Jump/FS_main_landing_vo-003.uasset" 77
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Jump/FS_main_landing_vo-002.uasset" 78
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Jump/FS_main_landing_vo-001.uasset" 79
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Jump/FS_main_landing.uasset" 80
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Landing.uasset" 81
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/ChestHero/Chest_landing.uasset" 82
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Jump/FS_main_jump_vo-006.uasset" 83
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Jump/FS_main_jump_vo-005.uasset" 84
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Jump/FS_main_jump_vo-004.uasset" 85
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Jump/FS_main_jump_vo-003.uasset" 86
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Jump/FS_main_jump_vo-002.uasset" 87
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Jump/FS_main_jump_vo-001.uasset" 88
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Jump/FS_main_jump.uasset" 89
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Jump.uasset" 90
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/ChestHero/Chest_jumping.uasset" 91
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Dash/whoosh.uasset" 92
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character_Dash.uasset" 93
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/ChestHero/Chest_dash.uasset" 94
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Hide/FS_main_close_move1-004.uasset" 95
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Hide/FS_main_close_move1-003.uasset" 96
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Hide/FS_main_close_move1-002.uasset" 97
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Hide/FS_main_close_move1-001.uasset" 98
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Hide/FS_main_close_impact2-003.uasset" 99
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Hide/FS_main_close_impact2-002.uasset" 100
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Hide/FS_main_close_impact2-001.uasset" 101
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Hide/FS_main_close_impact1-003.uasset" 102
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Hide/FS_main_close_impact1-002.uasset" 103
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Hide/FS_main_close_impact1-001.uasset" 104
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character_Hide_In.uasset" 105
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/ChestHero/Chest_hide.uasset" 106
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/ChestHero/Chest_in_air.uasset" 107
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/ChestHero/ChestABP.uasset" 108
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Gleb_files/PlayerBP.uasset" 109
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Gleb_files/Test/PlayerBP.uasset" 110
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/assets/mats/collum-mamon__DefaultMaterial_BaseColor.uasset" 111
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/assets/mats/platform1.uasset" 112
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/assets/mats/floor_floor_OcclusionRoughnessMetallic.uasset" 113
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/assets/mats/floor_floor_Normal.uasset" 114
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/assets/mats/floor_floor_BaseColor.uasset" 115
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/assets/mats/plat_1.uasset" 116
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/assets/mats/wall-circle__DefaultMaterial_BaseColor.uasset" 117
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/assets/mats/wall-circle__DefaultMaterial_OcclusionRoughnessMetallic.uasset" 118
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/assets/mats/wall-circle__DefaultMaterial_Normal.uasset" 119
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/assets/mats/jam-wall_DefaultMaterial_BaseColor.uasset" 120
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 121
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 122
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_HardLight.uasset" 123
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/assets/mats/wallcircle.uasset" 124
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Main/PlayerBP.uasset" 125
+"../../../Engine/Content/EditorShellMaterials/T_BaseOverlay.uasset" 126
+"../../../Engine/Content/EditorShellMaterials/T_Base.uasset" 127
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 128
+"../../../Engine/Content/EditorShellMaterials/M_ShellMaster.uasset" 129
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/MI_BaseGrid.uasset" 130
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Materials/MI_BaseGrid.uasset" 131
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/air.uasset" 132
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/air_Cue.uasset" 133
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/drips.uasset" 134
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/drips_Cue.uasset" 135
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Dash/Whoosh_001.uasset" 136
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Footsteps/FS_main_details-008.uasset" 137
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Footsteps/FS_main_details-009.uasset" 138
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Footsteps/FS_main_details-010.uasset" 139
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Footsteps/FS_main_details-011.uasset" 140
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Sound/Main_character/Footsteps/FS_main_details-012.uasset" 141
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Basic_Wall.uasset" 142
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Architecture/Pillar_50x500.uasset" 143
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Architecture/Wall_400x300.uasset" 144
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Architecture/Wall_400x400.uasset" 145
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Architecture/Wall_500x500.uasset" 146
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 147
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 148
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Audio/Collapse01.uasset" 149
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Audio/Collapse02.uasset" 150
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Audio/Explosion01.uasset" 151
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Audio/Explosion02.uasset" 152
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Audio/Fire01.uasset" 153
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Audio/Fire_Sparks01.uasset" 154
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Audio/Light01.uasset" 155
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Audio/Light01_Cue.uasset" 156
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Audio/Light02.uasset" 157
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Audio/Light02_Cue.uasset" 158
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Audio/Smoke01.uasset" 159
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Audio/Starter_Birds01.uasset" 160
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Audio/Starter_Music01.uasset" 161
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Audio/Starter_Wind05.uasset" 162
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Audio/Starter_Wind06.uasset" 163
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Audio/Steam01.uasset" 164
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 165
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 166
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 167
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 168
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 169
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 170
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 171
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 172
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Burst_M.uasset" 173
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Particles/Materials/M_Burst.uasset" 174
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Particles/P_Explosion.uasset" 175
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Audio/Explosion_Cue.uasset" 176
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 177
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 178
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Mannequin/Animations/ThirdPersonJump_End.uasset" 179
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uasset" 180
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Mannequin/Character/Textures/T_UE4Logo_N.uasset" 181
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset" 182
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Mannequin/Character/Textures/T_Male_N.uasset" 183
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Mannequin/Character/Textures/T_Male_Mask.uasset" 184
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 185
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 186
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 187
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 188
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 189
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 190
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 191
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 192
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 193
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 194
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 195
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Mannequin/Character/Materials/M_Male_Body.uasset" 196
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 197
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Mannequin/Character/Textures/T_Female_N.uasset" 198
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Mannequin/Character/Textures/T_Female_Mask.uasset" 199
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Mannequin/Character/Materials/MI_Female_Body.uasset" 200
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Mannequin/Character/Mesh/SK_Mannequin_Female.uasset" 201
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 202
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 203
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Bush_N.uasset" 204
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Bush_D.uasset" 205
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Props/Materials/M_Bush.uasset" 206
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Props/SM_Bush.uasset" 207
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Chair_N.uasset" 208
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Chair_M.uasset" 209
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Props/Materials/M_Chair.uasset" 210
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Props/SM_Couch.uasset" 211
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Door_N.uasset" 212
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Door_M.uasset" 213
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Props/Materials/M_Door.uasset" 214
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Glass.uasset" 215
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Props/SM_Door.uasset" 216
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 217
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 218
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 219
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_RockMesh_N.uasset" 220
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_RockMesh_M.uasset" 221
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 222
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 223
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Props/Materials/M_Rock.uasset" 224
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Props/SM_Rock.uasset" 225
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Shelf_N.uasset" 226
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Shelf_M.uasset" 227
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Props/Materials/M_Shelf.uasset" 228
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Props/SM_Shelf.uasset" 229
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Basic_Floor.uasset" 230
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Props/SM_Stairs.uasset" 231
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Shapes/Shape_Cone.uasset" 232
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 233
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 234
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Shapes/Shape_Pipe.uasset" 235
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 236
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 237
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Shapes/Shape_Plane.uasset" 238
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Shapes/Shape_Torus.uasset" 239
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Shapes/Shape_Trim.uasset" 240
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 241
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 242
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 243
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Shapes/Shape_Tube.uasset" 244
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 245
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 246
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 247
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/ThirdPersonBP/ThirdPersonOverview.uasset" 248
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 249
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Mannequin/Character/Mesh/SK_Mannequin.uasset" 250
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Mannequin/Animations/ThirdPersonWalk.uasset" 251
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Mannequin/Animations/ThirdPersonRun.uasset" 252
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Mannequin/Animations/ThirdPersonIdle.uasset" 253
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 254
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Mannequin/Animations/ThirdPerson_Jump.uasset" 255
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Mannequin/Animations/ThirdPersonJump_Start.uasset" 256
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 257
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 258
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 259
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 260
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/ThirdPerson/Meshes/RampMaterial.uasset" 261
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 262
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 263
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 264
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 265
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 266
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 267
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 268
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 269
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 270
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 271
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 272
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 273
+"../../../Engine/Content/BasicShapes/Cone.uasset" 274
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 275
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 276
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 277
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 278
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 279
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 280
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 281
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 282
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 283
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 284
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 285
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 286
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 287
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 288
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 289
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 290
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 291
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 292
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 293
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 294
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 295
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 296
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 297
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 298
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 299
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 300
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 301
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 302
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 303
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 304
+"../../../Engine/Content/EditorResources/S_Note.uasset" 305
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 306
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 307
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 308
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 309
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 310
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 311
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 312
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 313
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 314
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 315
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 316
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 317
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 318
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 319
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 320
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 321
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 322
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 323
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 324
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 325
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 326
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 327
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 328
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 329
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 330
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 331
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 332
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 333
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 334
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 335
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 336
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 337
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 338
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 339
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 340
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 341
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 342
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 343
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 344
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 345
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 346
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 347
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 348
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 349
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 350
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 351
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 352
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 353
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 354
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 355
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 356
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 357
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 358
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 359
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 360
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 361
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 362
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 363
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 364
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 365
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 366
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 367
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 368
+"../../../Engine/Content/EngineResources/Black.uasset" 369
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 370
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 371
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 372
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 373
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 374
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 375
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 376
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 377
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 378
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 379
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 380
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 381
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 382
+"../../../Engine/Content/EngineSounds/Master.uasset" 383
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 384
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 385
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 386
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 387
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 388
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 389
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 390
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 391
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 392
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 393
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 394
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 395
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 396
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 397
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 398
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 399
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 400
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 401
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 402
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 403
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 404
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 405
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 406
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 407
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 408
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 409
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 410
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 411
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 412
+"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 413
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 414
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 415
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 416
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 417
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 418
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 419
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 420
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 421
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 422
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 423
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 424
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 425
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 426
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 427
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 428
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 429
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 430
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 431
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 432
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 433
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 434
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 435
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 436
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 437
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 438
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 439
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 440
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 441
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 442
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 443
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 444
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 445
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 446
+"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 447
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 448
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 449
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 450
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 451
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 452
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 453
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 454
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 455
+"../../../Engine/Content/BasicShapes/Cube.uasset" 456
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 457
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 458
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Gleb_files/Test/MovementGameMod.uasset" 459
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 460
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 461
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 462
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 463
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 464
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Main/PlayerBP_Child.uasset" 465
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Gleb_files/AI/AI_PATROL_COMP.uasset" 466
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Gleb_files/AI/AIStatus.uasset" 467
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Gleb_files/AI/Mag_BB.uasset" 468
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Gleb_files/AI/NextPatrolLok.uasset" 469
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Gleb_files/AI/MAG.uasset" 470
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Gleb_files/AI/AI_LIB.uasset" 471
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Gleb_files/AI/Ai_Conroller.uasset" 472
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/Ebaka/beholder_light.uasset" 473
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/Ebaka/beholder_emission.uasset" 474
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/Ebaka/beholder_base.uasset" 475
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/Ebaka/beholder.uasset" 476
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Gleb_files/AI/Patroll_AI.uasset" 477
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/Destroy_Prekol/floor-planks.uasset" 478
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/Destroy_Prekol/floor-planks_DM.uasset" 479
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/Destroy_Prekol/Cube_Destroy_2.uasset" 480
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Actors/Destroy_Prekol/Cube_Destroy.uasset" 481
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Gleb_files/Test/Mech_test_lvl.umap" 482
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 483
+"../../../Engine/Content/BasicShapes/Plane.uasset" 484
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/Materials/MI_GridWall.uasset" 485
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/Materials/MI_GridFloor.uasset" 486
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/Materials/MI_DestroyGrid.uasset" 487
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/Materials/MI_BaseGrid.uasset" 488
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/Maps/1stLevelMain_BuiltData.uasset" 489
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/assets/mats/jam-wall_DefaultMaterial_OcclusionRoughnessMetallic.uasset" 490
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/assets/mats/jam-wall_DefaultMaterial_Normal.uasset" 491
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/assets/mats/wall.uasset" 492
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/assets/envir/M_WallMAt.uasset" 493
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/assets/envir/wall-circle_.uasset" 494
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/assets/mats/plat_2.uasset" 495
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/assets/envir/platform_move.uasset" 496
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/assets/mats/floor.uasset" 497
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/assets/envir/platform.uasset" 498
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/assets/envir/jam-wall.uasset" 499
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/assets/envir/floor.uasset" 500
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/assets/envir/jam-stairs-3_.uasset" 501
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/assets/envir/jam-stairs-1_.uasset" 502
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/assets/envir/jam-floor.uasset" 503
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/assets/envir/floor-edge_.uasset" 504
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/assets/mats/collum-mamon__DefaultMaterial_OcclusionRoughnessMetallic.uasset" 505
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/assets/mats/collum-mamon__DefaultMaterial_Normal.uasset" 506
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/assets/mats/column.uasset" 507
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/assets/envir/collum-mamon_.uasset" 508
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/assets/envir/ceiling_.uasset" 509
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/JAM_FOLDER/Maps/1stLevelMain.umap" 510
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Gleb_files/Menu/Options.uasset" 511
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Gleb_files/Menu/ChoseLevel.uasset" 512
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Gleb_files/Menu/MainMenu.uasset" 513
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Main/Main_menu.umap" 514
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 515
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 516
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 517
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 518
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 519
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 520
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 521
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 522
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 523
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 524
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 525
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 526
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 527
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 528
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 529
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 530
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 531
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 532
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 533
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 534
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_AssetPlatform.uasset" 535
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 536
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Maps/Advanced_Lighting.umap" 537
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_TableRound_N.uasset" 538
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_TableRound_M.uasset" 539
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Props/Materials/M_TableRound.uasset" 540
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Props/SM_TableRound.uasset" 541
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Statue_N.uasset" 542
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Statue_M.uasset" 543
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Props/Materials/M_Statue.uasset" 544
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 545
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Props/SM_Statue.uasset" 546
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Props/SM_Chair.uasset" 547
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_MacroVariation.uasset" 548
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 549
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 550
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Metal_Copper.uasset" 551
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 552
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 553
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 554
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 555
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Architecture/Floor_400x400.uasset" 556
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/MI_GridWall.uasset" 557
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Materials/MI_GridWall.uasset" 558
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/MI_GridFloor.uasset" 559
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/Materials/MI_GridFloor.uasset" 560
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Maps/Minimal_Default.umap" 561
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Shapes/Shape_Sphere.uasset" 562
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 563
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Shapes/Shape_Cube.uasset" 564
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Frame_N.uasset" 565
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Frame_M.uasset" 566
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Props/Materials/M_Frame.uasset" 567
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Props/SM_WindowFrame.uasset" 568
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Props/SM_PillarFrame300.uasset" 569
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Props/SM_PillarFrame.uasset" 570
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Props/SM_GlassWindow.uasset" 571
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Props/SM_DoorFrame.uasset" 572
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Props/SM_CornerFrame.uasset" 573
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Props/MaterialSphere.uasset" 574
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 575
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 576
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 577
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 578
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 579
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 580
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 581
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 582
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 583
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Wood_Pine.uasset" 584
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 585
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 586
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Wood_Oak.uasset" 587
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 588
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 589
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 590
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 591
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 592
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 593
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Water_M.uasset" 594
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Water_N.uasset" 595
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Water_Ocean.uasset" 596
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Water_Lake.uasset" 597
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 598
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 599
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 600
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Tech_Panel.uasset" 601
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 602
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 603
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 604
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 605
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 606
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 607
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 608
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 609
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 610
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 611
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 612
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Rock_Slate.uasset" 613
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 614
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 615
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 616
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 617
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 618
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 619
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 620
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 621
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Metal_Steel.uasset" 622
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 623
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 624
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Metal_Rust.uasset" 625
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 626
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Metal_Gold.uasset" 627
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 628
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 629
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 630
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 631
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Ground_Moss.uasset" 632
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 633
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 634
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 635
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 636
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 637
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Ground_Grass.uasset" 638
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 639
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 640
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 641
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 642
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 643
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 644
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 645
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 646
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 647
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 648
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 649
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 650
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 651
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 652
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Gradinet_01.uasset" 653
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 654
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 655
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 656
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 657
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 658
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 659
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 660
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 661
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 662
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 663
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 664
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 665
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 666
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 667
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 668
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 669
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 670
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 671
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 672
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 673
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 674
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 675
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 676
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 677
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 678
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 679
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 680
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 681
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 682
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 683
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 684
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 685
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 686
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 687
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 688
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Lamp_N.uasset" 689
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Lamp_M.uasset" 690
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Props/Materials/M_Lamp.uasset" 691
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 692
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 693
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Particles/P_Steam_Lit.uasset" 694
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Audio/Steam01_Cue.uasset" 695
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 696
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Spark_Core.uasset" 697
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Particles/Materials/M_Spark.uasset" 698
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 699
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Particles/P_Sparks.uasset" 700
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 701
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 702
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Particles/P_Smoke.uasset" 703
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Audio/Smoke01_Cue.uasset" 704
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 705
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 706
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 707
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 708
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 709
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Particles/P_Fire.uasset" 710
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Audio/Fire01_Cue.uasset" 711
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 712
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 713
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 714
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 715
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Audio/Collapse_Cue.uasset" 716
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 717
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 718
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Architecture/Wall_400x200.uasset" 719
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/Maps/StarterMap.umap" 720
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 721
+"../../../../../../Users/Alyants/Documents/Unreal Projects/BCJJamPoebaTeam/Content/StarterContent/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 722
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 723
+"../../../Engine/Content/Maps/Entry.umap" 724
